@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+redshield.db
+redshield_baseline.json
